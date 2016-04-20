@@ -1,0 +1,121 @@
+********************************************************************
+***************** WIPRO SUPER SPECIALITY HOSPITAL ******************
+********************************************************************
+
+
+[1] -> Administrator Login
+[2] -> Doctor Login
+[3] -> Patient Login / Registration
+[4] -> Receptionist Login
+----------------------------------------
+Please enter your choice : 1
+----------------------------------------
+
+**** ADMIN OPERATIONS ****
+
+[1] -> Register a Doctor
+[2] -> Delete Doctor Info
+[3] -> List Registered Doctors
+[4] -> Add Receptionist
+[5] -> Delete Receptionist
+[6] -> List Receptionists
+[7] -> Logout
+----------------------------------------
+Please enter your choice : 3
+----------------------------------------
+
+REGISTERED DOCTORS :: 
+		---------------------------------------------------------------------------------
+		|	DOCTOR ID		|	DOCTOR NAME			|	SPECIALIZATION	|	EXPERIENCE	|
+		---------------------------------------------------------------------------------
+		|	siva123			|	siva narayana		|	cardiaic		|	2			|
+		---------------------------------------------------------------------------------
+		|	shankar123		|	shankar narayana	|	neurology		|	4			|
+		---------------------------------------------------------------------------------
+----------------------------------------
+
+**** ADMIN OPERATIONS ****
+
+[1] -> Register a Doctor
+[2] -> Delete Doctor Info
+[3] -> List Registered Doctors
+[4] -> Add Receptionist
+[5] -> Delete Receptionist
+[6] -> List Receptionists
+[7] -> Logout
+----------------------------------------
+Please enter your choice : 1
+----------------------------------------
+
+-----------------------------------------
+********** ENTER DOCTOR DETAILS *********
+-----------------------------------------
+-------------------------------------------------------------------
+|  First name : 			| 		laxmi
+-------------------------------------------------------------------
+|  Last name  : 			| 		narayana
+-------------------------------------------------------------------
+|  Specialization : 		| 		all-in-one
+-------------------------------------------------------------------
+|  Experience (int) : 		| 		8
+-------------------------------------------------------------------
+|  User Id : 				| 		laxmi
+-------------------------------------------------------------------
+|  Age (int) :	 			| 		29
+-------------------------------------------------------------------
+
+Doctor registration done successfully
+----------------------------------------
+
+**** ADMIN OPERATIONS ****
+
+[1] -> Register a Doctor
+[2] -> Delete Doctor Info
+[3] -> List Registered Doctors
+[4] -> Add Receptionist
+[5] -> Delete Receptionist
+[6] -> List Receptionists
+[7] -> Logout
+----------------------------------------
+Please enter your choice : 3
+----------------------------------------
+
+REGISTERED DOCTORS :: 
+		---------------------------------------------------------------------------------
+		|	DOCTOR ID		|	DOCTOR NAME			|	SPECIALIZATION	|	EXPERIENCE	|
+		---------------------------------------------------------------------------------
+		|	siva123			|	siva narayana		|	cardiaic		|	2			|
+		---------------------------------------------------------------------------------
+		|	shankar123		|	shankar narayana	|	neurology		|	4			|
+		---------------------------------------------------------------------------------
+		|	laxmi			|	laxmi narayana		|	all-in-one		|	8			|
+		---------------------------------------------------------------------------------
+----------------------------------------
+
+**** ADMIN OPERATIONS ****
+
+[1] -> Register a Doctor
+[2] -> Delete Doctor Info
+[3] -> List Registered Doctors
+[4] -> Add Receptionist
+[5] -> Delete Receptionist
+[6] -> List Receptionists
+[7] -> Logout
+----------------------------------------
+Please enter your choice : 2
+----------------------------------------
+
+Enter the doctor Id to delete : siva
+----------------------------------------
+
+**** ADMIN OPERATIONS ****
+
+[1] -> Register a Doctor
+[2] -> Delete Doctor Info
+[3] -> List Registered Doctors
+[4] -> Add Receptionist
+[5] -> Delete Receptionist
+[6] -> List Receptionists
+[7] -> Logout
+----------------------------------------
+Please enter your choice : 

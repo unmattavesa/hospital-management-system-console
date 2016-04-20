@@ -1,14 +1,14 @@
-package com.wipro.hmsc.main;
+package com.narayan.hmsc.main;
 
-import static com.wipro.hmsc.util.CommonUtils.learnOptionFromUser;
-import static com.wipro.hmsc.util.CommonUtils.showApplicationEntryOptions;
-import static com.wipro.hmsc.util.CommonUtils.showBanner;
+import static com.narayan.hmsc.util.CommonUtils.learnOptionFromUser;
+import static com.narayan.hmsc.util.CommonUtils.showApplicationEntryOptions;
+import static com.narayan.hmsc.util.CommonUtils.showBanner;
 
-import com.wipro.hmsc.mode.AdminMode;
+import com.narayan.hmsc.mode.AdminMode;
 
 /**
  * 
- * @author si255323
+ * @author unmattavesa
  *
  */
 public class HMSApp {
@@ -36,7 +36,7 @@ public class HMSApp {
 
 	private void startAdminMode() {
 		AdminMode adminMode = new AdminMode();
-		adminMode.start();
+		adminMode.operate();
 	}
 
 	

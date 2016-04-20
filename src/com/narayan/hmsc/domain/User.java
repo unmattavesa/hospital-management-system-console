@@ -1,8 +1,8 @@
-package com.wipro.hmsc.domain;
+package com.narayan.hmsc.domain;
 
 /**
  * 
- * @author si255323
+ * @author unmattavesa
  *
  */
 public class User {
